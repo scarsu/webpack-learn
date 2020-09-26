@@ -1,1 +1,1 @@
-export default APP_NAME = 'app';
+export const APP_NAME = 'app';
